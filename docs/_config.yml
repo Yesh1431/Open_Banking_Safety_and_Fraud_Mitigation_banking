@@ -1,0 +1,6 @@
+theme: jekyll-theme-primer
+title: Open Banking Safety and Fraud Mitigation
+description: ML-based fraud detection and safety mitigation system for open banking
+plugins:
+  - jekyll-github-metadata
+  - jekyll-seo-tag
