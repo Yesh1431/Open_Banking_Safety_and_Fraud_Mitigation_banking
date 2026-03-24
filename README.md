@@ -1,7 +1,7 @@
 # Open Banking Safety and Fraud Mitigation Capstone Project
 
 ## Overview
-This repository contains a capstone project focused on improving trust and security in open banking systems through machine learning–based fraud mitigation. It includes a trained Random Forest model, Python code to run predictions, project documentation, and presentation materials. The primary objective is to identify risky transaction patterns and support safer open banking operations.
+This repository hosts a capstone project on improving open banking safety with machine-learning-assisted fraud mitigation. It includes a trained Random Forest model, a runnable Python entry point, an analysis notebook, documentation pages, and presentation material so contributors can understand, run, and extend the work quickly.
 
 ## Team
 - **Vishant**
