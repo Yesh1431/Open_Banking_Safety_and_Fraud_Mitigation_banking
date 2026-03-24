@@ -1,7 +1,7 @@
 # Open Banking Safety and Fraud Mitigation Capstone Project
 
 ## Overview
-This repository contains the code and documentation for the "Open Banking Safety and Fraud Mitigation" Capstone Project. The project aims to address safety and fraud concerns in open banking systems.
+This repository contains a capstone project focused on improving trust and security in open banking systems through machine learning–based fraud mitigation. It includes a trained Random Forest model, Python code to run predictions, project documentation, and presentation materials. The primary objective is to identify risky transaction patterns and support safer open banking operations.
 
 ## Team
 - **Vishant**
@@ -11,11 +11,14 @@ This repository contains the code and documentation for the "Open Banking Safety
 ## Project Description
 The goal of this project is to develop models and tools to enhance the safety of open banking systems and mitigate fraud risks. The project is conducted under the guidance of Professor Reda Mastouri.
 
-## Contents
-- **Code**: The code for implementing safety and fraud mitigation measures.
-- **Data**: Placeholder for any necessary data files.
-- **Documentation**: Additional project-related documents.
-- **Results**: Stores the results of model evaluations.
+## Repository Contents
+- **`main.py`**: Main script for loading the model and running project logic.
+- **`random_forest_model.joblib`**: Trained Random Forest model used for fraud mitigation.
+- **`Open_Banking_Safety_and_Fraud_Mitigation_Vishant_Yeshwanth_Chirudeep.ipynb`**: Notebook with analysis and experimentation.
+- **`docs/`**: Documentation site content (including project overview pages).
+- **`Open Banking Safety and Fraud Mitigation  (1).pptx`**: Project presentation.
+- **`requirements.txt`**: Python dependencies.
+- **`SECURITY.md`**: Security reporting and policy information.
 
 ## Getting Started
 Follow these steps to get started with the project:
@@ -23,5 +26,5 @@ Follow these steps to get started with the project:
 2. Install dependencies: `pip install -r requirements.txt`
 3. Execute the code: `python main.py`
 
-## AcknowledgmentS
-We are delighted to express our sincere  Thanks and gratitude to our professor  Reda Mastouri.
+## Acknowledgments
+We are grateful to Professor Reda Mastouri for guidance and support throughout this capstone project.
