@@ -6,36 +6,27 @@ title: Open Banking Safety and Fraud Mitigation
 # Open Banking Safety and Fraud Mitigation
 
 ## Project Overview
-This project implements machine learning-based safety and fraud mitigation for open banking systems.
+This repository hosts a capstone project that applies machine learning to support safer open banking workflows. The project focuses on fraud-risk mitigation by combining a trained Random Forest model, reproducible analysis artifacts, and lightweight documentation for contributors.
 
-## Key Features
-- Real-time fraud detection using Random Forest models
-- Safety analysis and risk assessment
-- Comprehensive data processing pipeline
+## What You’ll Find Here
+- **Model artifact**: `random_forest_model.joblib` for fraud-risk inference.
+- **Execution script**: `main.py` as the primary runnable entry point.
+- **Research notebook**: `Open_Banking_Safety_and_Fraud_Mitigation_Vishant_Yeshwanth_Chirudeep.ipynb` for experimentation and analysis.
+- **Documentation site**: Files under `docs/` for project pages and configuration.
+- **Supporting material**: Project presentation deck and dependency list.
 
-## Technologies Used
-- Python 3.x
+## Technology Stack
+- Python 3
 - Scikit-learn
-- Pandas & NumPy
+- Pandas
+- NumPy
 - Jupyter Notebook
 
-## Getting Started
-
-### Prerequisites
-- Python 3.7+
-- pip package manager
-
-### Installation
+## Quick Start
 ```bash
 pip install -r requirements.txt
 python main.py
 ```
 
-## Project Files
-- `main.py` - Main application entry point
-- `random_forest_model.joblib` - Trained ML model
-- `requirements.txt` - Python dependencies
-- Jupyter notebooks with analysis and model training
-
-## License
-See SECURITY.md for security information.
+## Security
+Please refer to `SECURITY.md` for security policy and reporting guidance.
